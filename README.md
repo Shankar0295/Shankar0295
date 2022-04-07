@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web development
 - 💻 I’m currently working with Javascript and ReactJS
 - 🛠 I'm currently doing #100DaysOfAlgorithmSolving
+- 💼 Check my https://shankarkumar.work/
 - 📫 How to reach me shankar0295@gmail.com
 
 <!---

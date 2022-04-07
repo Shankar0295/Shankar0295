@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shankar Kumar - FrontEnd Developer
 - 👀 I’m interested in Web development
 - 💻 I’m currently working with Javascript and ReactJS
-- 🛠 I'm currently doing #100DaysOfAlgorithmSolving
+- 🛠 I'm currently doing #100DaysOfCode
 - 💼 Check my https://shankarkumar.work/
 - 📫 How to reach me shankar0295@gmail.com
 

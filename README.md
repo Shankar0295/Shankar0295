@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Shankar0295
+- 👋 Hi, I’m Shankar Kumar - FrontEnd Developer
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning ReactJs
-- 💞️ I’m looking to collaborate on ...
+- 💻 I’m currently working with Javascript and ReactJS
+- 🛠 I'm currently doing #100DaysOfAlgorithmSolving
 - 📫 How to reach me shankar0295@gmail.com
 
 <!---
